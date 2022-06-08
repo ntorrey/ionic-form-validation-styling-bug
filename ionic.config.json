@@ -1,0 +1,7 @@
+{
+  "name": "ionic-form-validation-styling-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
